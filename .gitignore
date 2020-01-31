@@ -1,4 +1,5 @@
 test.py
 /venv
 /data/*
-/.idea
+.idea
+/__pycache__
